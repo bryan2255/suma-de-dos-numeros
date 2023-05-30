@@ -1,0 +1,4 @@
+para la creacion de una aplicacion de suma, resta, multiplicacion y division se debe tomar en cuenta los siguientes pasos 
+-Como primer punto para el desarrollo de la aplicación deberemos elegir un nuevo proyecto el cual se adapte a lo que queramos desarrollar, 
+en este caso se usará el proyecto de “empty activity”, una vez elegida configuramos el nombre con el que se guardará, el SDK y el lenguaje 
+de programación que se vaya a utilizar
